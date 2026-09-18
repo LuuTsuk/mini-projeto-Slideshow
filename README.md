@@ -1,8 +1,8 @@
 # 🖼️ Slideshow com JavaScript
 
-Mini projeto desenvolvido para praticar a criação de um slideshow interativo utilizando **JavaScript puro**.
+Mini projeto desenvolvido durante meus estudos de **JavaScript**, a partir do repositório de estudos `mini-projetos-js`.
 
-O usuário pode navegar entre diferentes imagens através dos botões de avançar e voltar.
+O objetivo foi praticar manipulação do DOM, arrays, objetos, funções e eventos de clique.
 
 ---
 
@@ -16,11 +16,13 @@ O usuário pode navegar entre diferentes imagens através dos botões de avança
 
 ## 💻 Sobre o projeto
 
-O projeto utiliza JavaScript para carregar uma coleção de imagens e permitir a navegação entre elas.
+Este projeto foi desenvolvido com base no exercício **Slideshow** presente no repositório:
 
-As imagens são armazenadas dentro de um array de objetos e adicionadas dinamicamente à página através do JavaScript.
+[fernandoleonid/mini-projetos-js](https://github.com/fernandoleonid/mini-projetos-js)
 
-Este projeto foi desenvolvido como exercício para compreender melhor a manipulação do DOM.
+Utilizei o exercício como material de estudo para compreender a lógica de funcionamento de um slideshow e praticar a manipulação de elementos HTML através do JavaScript.
+
+O usuário pode navegar entre diferentes imagens utilizando os botões de avançar e voltar.
 
 ---
 
@@ -34,15 +36,17 @@ Este projeto foi desenvolvido como exercício para compreender melhor a manipula
 
 ## ✨ Funcionalidades
 
-- Exibição de imagens em formato de slideshow
+- Exibição de várias imagens
 - Botão para avançar
 - Botão para voltar
-- Carregamento de imagens através do JavaScript
+- Carregamento das imagens através do JavaScript
 - Alteração dinâmica da ordem dos elementos
 
 ---
 
 ## 📚 O que pratiquei
+
+Durante este exercício, pratiquei:
 
 - Arrays
 - Objetos
@@ -58,11 +62,18 @@ Este projeto foi desenvolvido como exercício para compreender melhor a manipula
 
 ---
 
-## 📂 Estrutura principal
+## 🎓 Referência utilizada
 
-```text
-mini-projeto-Slideshow/
-├── img/
-├── index.html
-├── slideShow.js
-└── style.css
+Projeto desenvolvido a partir do exercício presente no repositório:
+
+**Mini Projetos com JavaScript Puro — Fernando Leonid**
+
+🔗 [Ver repositório original](https://github.com/fernandoleonid/mini-projetos-js)
+
+Este repositório foi utilizado como material de estudo e prática.
+
+---
+
+<p align="center">
+  Mini projeto desenvolvido para fins de estudo de JavaScript. 💻
+</p>
